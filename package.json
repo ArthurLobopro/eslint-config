@@ -1,7 +1,9 @@
 {
   "name": "@arthur-lobo/eslint-config",
   "version": "1.0.0",
-  "private": false,
+  "publishConfig": {
+    "access": "public"
+},
   "description": "ESLint configuration based on @rocketseat/eslint-config-rocketseat.",
   "main": "index.js",
   "license": "MIT",
