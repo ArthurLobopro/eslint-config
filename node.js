@@ -15,8 +15,8 @@ module.exports = {
       'error',
       {
         printWidth: 80,
-        tabWidth: 2,
-        singleQuote: true,
+        tabWidth: 4,
+        singleQuote: false,
         trailingComma: 'all',
         arrowParens: 'always',
         semi: false,
