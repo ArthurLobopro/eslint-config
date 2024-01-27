@@ -22,6 +22,7 @@ module.exports = {
         semi: false,
       },
     ],
+    "eol-last": "off"
   },
   settings: {
     'import/parsers': {
